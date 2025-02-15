@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandra Mariño</h1>
 <h3 align="center">A Mathematician from Colombia</h3>
 
-- 🔭 I’m currently working on [What to wear - Full stack Web Developer bootcamp](https://github.com/Ajela13/se_project_react)
+- 🔭 I’m currently working on [MLearn](https://github.com/Ajela13/MLearn)
 
 - 🌱 I’m currently learning **Machine learning and Software engineering**
 
